@@ -1,0 +1,10 @@
+table.schedule {
+	border: 3px solid #666;
+	border-collapse: collapse;
+	font-weight: 400;
+}
+
+table.schedule th, table.schedule td {
+	border: 1px solid #888;
+	padding: 5px;
+}
